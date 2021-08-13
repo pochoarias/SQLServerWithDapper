@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlServerDemo", "SqlServerDemo\SqlServerDemo.sqlproj", "{1A0BCD68-2E82-4500-A055-3F2C9C440975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDemo", "DapperDemo\DapperDemo.csproj", "{F0168A3A-23CA-41C0-A369-407EC1F4E741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0BCD68-2E82-4500-A055-3F2C9C440975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0BCD68-2E82-4500-A055-3F2C9C440975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0BCD68-2E82-4500-A055-3F2C9C440975}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1A0BCD68-2E82-4500-A055-3F2C9C440975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0BCD68-2E82-4500-A055-3F2C9C440975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0BCD68-2E82-4500-A055-3F2C9C440975}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F0168A3A-23CA-41C0-A369-407EC1F4E741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0168A3A-23CA-41C0-A369-407EC1F4E741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0168A3A-23CA-41C0-A369-407EC1F4E741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0168A3A-23CA-41C0-A369-407EC1F4E741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {055AAC93-CFD0-445D-BDA7-8BD38C5D17F6}
+	EndGlobalSection
+EndGlobal
